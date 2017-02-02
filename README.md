@@ -11,6 +11,7 @@ the pynput library is used for mouse/keyboard input and output
 
 # usage:
 to start the program just run it:
+
 ">> python macro.py"
 
 the default macro trigger is ctrl+k+b(in this order)
