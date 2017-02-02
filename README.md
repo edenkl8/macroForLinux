@@ -21,6 +21,6 @@ and the default macro writing is "hello"
 # TO-DO:
 1) in next versions I will add support for multiple macros
 
-2) in next versions I will add support for determining the mcros outside of the code
+2) in next versions I will add support for determining the macros outside of the code
 
-3) in next versions I will ad a gui
+3) in next versions I will add a gui
