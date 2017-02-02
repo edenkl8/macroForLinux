@@ -15,6 +15,7 @@ to start the program just run it:
 ">> python macro.py"
 
 the default macro trigger is ctrl+k+b(in this order)
+
 and the default macro writing is "hello"
 
 # TO-DO:
